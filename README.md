@@ -1,4 +1,4 @@
-# NFL-Drafting-Predictions
+# NFL-Draft-Prediction
 # High-Performance Competitive Solution
 ## Strategy Document & Engineering Log
 
